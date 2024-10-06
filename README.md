@@ -1,4 +1,3 @@
-                                      AI Text Summarizer App
 
 
 
